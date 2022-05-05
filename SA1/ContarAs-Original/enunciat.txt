@@ -1,0 +1,1 @@
+Programa que conta el número de vegades que apareix la lletra "A" dins una frase.
